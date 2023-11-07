@@ -1,4 +1,4 @@
-# Predictive-Maintenance-of-Gearbox-using-vibration-sensors-data-
+# UPSKILL CAMPUS UCT Predictive-Maintenance-of-Gearbox-using-vibration-sensors-data-
 Predictive maintenance of gearboxes using vibration sensor data is a proactive approach to ensure the optimal performance and reliability of industrial machinery. Gearboxes are critical components used in various industries for power transmission, and their failure can lead to costly downtime and production losses.
 
 In this context, vibration sensors are strategically placed on gearboxes to continuously monitor and capture real-time vibration data. These sensors detect vibrations caused by irregularities in the gearbox, such as misalignment, gear wear, lubrication issues, or other faults that may lead to potential failures.
